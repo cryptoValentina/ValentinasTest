@@ -1,7 +1,7 @@
 Das ist mein Test Document
 ich habe mich in einem Video inspirieren lassen
 Github möchte ich gerne verstehen
-so nun pause
+so nun Pause
 jetzt kommt die erste Änderung
 ui das scheint zu klappen
 zweiter Test gleich dazu
